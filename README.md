@@ -1,4 +1,5 @@
 # cljs-demo
 
-### Create a reagent project
+1. [Create a reagent project](/tutorial/create-project.md)
+
 
